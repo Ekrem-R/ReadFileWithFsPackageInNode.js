@@ -1,0 +1,3 @@
+Merhaba HiCoders,
+Node.js ile dosya okuma islemi yapiyoruz. Sende bize katilmak ister misin?
+Evet HiCoders, ben varim ,sende var misin?
